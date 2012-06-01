@@ -1,0 +1,2 @@
+<img src="h2ero.cn/login_out" />
+url 直接退出，再登录，用户多时候可以达到DDOS的效果
